@@ -3,20 +3,22 @@
 
 
 ## **1. Methodology**
-<img src="https://user-images.githubusercontent.com/7460892/207003643-e03c8964-3f16-4a62-9a2d-b1eec5d8691f.png" width="80%" height="80%">
+This app is made with React JS, Material UI, and Chart JS and has fully responsive functionality. I have used Context API to manage the state of our app and Coin Gecko API for the backend.
 
 
 ## **2. Description**
-<img src="https://user-images.githubusercontent.com/7460892/207003772-ba2061bc-f8fd-4479-ba42-4712328b7085.png" width="80%" height="80%">
+The major objective behind this project is to help Crypto Geeks keep track of their historical transactions, worth, and destinations or sources. Also, it provides them with the actual live price and detailed descriptions of any of the cryptocurrencies they are interested in.
 
 
 ## **3. Input / Output**
-<img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="40%" height="40%">
+![image](https://user-images.githubusercontent.com/56166082/208242789-5164b238-3160-4d62-a32f-6c2d3d4feb30.png)
+
 
 
 ## **4. Live link**
-Link: www.FacialExpressionRecognition.com
+Link:https://manmeet-crypto-tracker.netlify.app/
 
 
 ## **5. Screenshot of the Interface**
-<img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="50%" height="50%">
+![image](https://user-images.githubusercontent.com/56166082/208242831-d5e8c1c8-ed0b-4884-901e-b5ac550a0925.png)
+
