@@ -1,5 +1,5 @@
 
-# **Title: Facial Expression Recognition**
+# **Title: Cryptocurrency Tracker App**
 
 
 ## **1. Methodology**
